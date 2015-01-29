@@ -1,3 +1,1 @@
-A directory for misellaneous stuff
-Nothing really relevant should be here!
-
+This is my (N02574302) miscellaneous directory. All non-pertinent bits and scraps were tossed in here by me.

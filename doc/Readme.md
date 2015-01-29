@@ -1,3 +1,1 @@
-Documentation Directory.
-All your documentation should go here.
-
+This is my (N02574302) documentation folder. All documentation herein is written by me.

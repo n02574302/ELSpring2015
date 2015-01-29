@@ -1,4 +1,2 @@
-Code Directory.
-All your code should go here. Make sure files are named as explicitly as possible.
-
+This is my (N02574302) code directly. All code here is written by myself, unless otherwise noted.
 
