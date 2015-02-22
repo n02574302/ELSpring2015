@@ -1,3 +1,4 @@
+#Temperature reading portion by Dr. Chirakkal Easwaran
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -5,9 +6,6 @@ import sqlite3 as mydb
 import sys
 import os
 import time
-
-#global temp for output
-displayTemp = 0
 
 def readTemp():
 	tempfile = open("/sys/bus/w1/devices/28-000006964288/w1_slave")
