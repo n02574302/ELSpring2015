@@ -1,0 +1,1 @@
+Ultimately, our code will not only take pictures, but also control the servo motors and upload the images the camera takes to our web server. We divided work between members of the group, and my responsibility was the camera, so I modeled a rotating boom by simply having a text input control which "direction" the camera takes a picture in with my imageCap.py.
